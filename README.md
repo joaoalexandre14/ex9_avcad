@@ -1,4 +1,4 @@
-# AVCAD - Exercise 8: Agglomerative Cluster Analysis
+# AVCAD - Exercise 9: Agglomerative Cluster Analysis
 
 **Student Name:** [João Alexandre]  
 **Student ID:** [29602]  
